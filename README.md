@@ -45,6 +45,4 @@ STEPS :
 
 5) Conclusions.
 
-6) Further Enhancements.
 
-7) Acknowledgement and References.
