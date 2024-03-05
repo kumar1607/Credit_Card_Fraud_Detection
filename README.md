@@ -33,7 +33,7 @@ The feature Amount is the transaction Amount, this feature can be used for examp
 Feature Class is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 
-STEPS : 
+# STEPS : 
 
 1) Importing Libraries & Loading Datasets.
 
@@ -44,5 +44,17 @@ STEPS :
 4) Handling Imbalanced Datasets. 
 
 5) Conclusions.
+
+
+
+# Conclusions:
+
+a) Out of all 6 Machine Learning Models used, Random Forest Classifier works efficiently with Maximum Accuracy of 99.996483% and macro-average of F1-Score of 1.00 acheived with Oversampling technique.
+
+b) Oversampling Techniques proved to be efficient for handling Imbalanced Datasets.
+
+c) RandomForest, XGBoost, DecisionTree, K-Neighbors work efficiently even for this Imbalanced Datasets.
+
+d) RandomForest takes lots of Training Time among all of Six models used.
 
 
